@@ -14,7 +14,7 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 12/07/2018
 ms.locfileid: "53054504"
 ---
-# <a name="simple-animations-in-xamarinforms"></a>Xamarin.Forms에서 간단한 애니메이션
+# <a name="simple-animations-in-xamarinforms"></a>Xamarin.Forms에서 간단한 애니메이션 만들기
 
 [![샘플 다운로드](~/media/shared/download.png) 샘플 다운로드](https://developer.xamarin.com/samples/xamarin-forms/userinterface/animation/basic/)
 
